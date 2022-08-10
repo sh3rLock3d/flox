@@ -2,27 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="08adf904-bf96-4c48-8658-856ba16e1fc8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/flox/create_problem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/geo.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/info.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/must-not-link-between-these-points.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/must_link_between_these_points.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/problem.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/problem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/with_must_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/with_must_not_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/1/without_must_link.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/for_finding_clients.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/geo.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/problem.p" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/problem.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/with_can_not_link1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/with_must_link_constraint1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/with_must_link_constraint3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/data/synthetic_data/without-constraint.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/solve_flo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/flox/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/csv-plugin.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facility location/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/facility location/solve_fl.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,19 +34,44 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/home/ali/Desktop/finalgit/flox/flox/data"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "/home/ali/Desktop/finalgit/flox/facility location"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/facility location" />
+      <recent name="$PROJECT_DIR$/flox/data/genomic" />
       <recent name="$PROJECT_DIR$/flox/data" />
+      <recent name="$PROJECT_DIR$/flox/data/mnist_dataset" />
       <recent name="$PROJECT_DIR$/flox" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/flox" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.main (1)">
+    <configuration name="main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="flox" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/facility location" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/facility location/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="flox" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -87,6 +95,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.main (1)" />
         <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
@@ -112,5 +121,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/facility location/solve_fl.py</url>
+          <line>109</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
